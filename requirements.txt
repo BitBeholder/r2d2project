@@ -1,0 +1,1 @@
+# pip freeze > requirements.txt will generate a list of python package dependencies
